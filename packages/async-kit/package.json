@@ -1,0 +1,9 @@
+{
+    "name": "@cfa/async-kit",
+    "private": true,
+    "devDependencies": {
+        "typescript": "^7.0.2",
+        "vitest": "^5.0.5"
+    },
+    "type": "module"
+}
